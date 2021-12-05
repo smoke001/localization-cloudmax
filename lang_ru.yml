@@ -430,7 +430,7 @@ FRIEND_JOINED: '§6§lДрузья §8| §fВаш друг %s §fзашел на
 #MOTD: '§a§l⚝ §6§lCloudMax §7§k|§b 1.12.2-1.17 §8▻ §e§lОбновление сервера{newline}§b➳ §fЛетний вайп §6§lВыживания §fи §a§lOneBlock'
 MOTD: '          §6•§d•§9• §a§l⚝ §6§lCloudMax §7§k|§b 1.12.2-1.17.1 §a§l⚝ §9•§d•§6• {newline}               §3↶ §6§lВАЙП §fи §c§lОБНОВЛЕНИЕ §3↷'
 TAB_HEADER: 
-- '§6§lFix§f§lMine'
+- '§bCloudMax'
 - ''
 - '§fДонат услуги:'
 - '§ewww.CloudMax.ru§f'
@@ -1145,7 +1145,7 @@ ONEBLOCK_START_ITEM_LORE:
 - ''
 - ' §7Создайте остров и начните играть'
 
-SURVIVAL_JOIN_TITLE: '§6§l◀ §6§lFix§f§lMine §6§l▶'
+SURVIVAL_JOIN_TITLE: '§6§l◀ §b§lCloudMAX §6§l▶'
 SURVIVAL_JOIN_SUBTITLE: '§fДобро пожаловать на §e§lвыживание'
 
 HOLOGRAM_KILLS_TOP_LINES:
@@ -1227,8 +1227,8 @@ LOBBY_BOARD_BOOSTER_LINE: ' Активный бустер: §c'
 LOBBY_BOARD_GLOBAL_ONLINE_LINE: ' Общий онлайн: §a'
 LOBBY_BOARD_SITE_LINE: '     §ewww.CloudMax.ru'
 
-LOBBY_JOIN_TITLE: '§6§l◀ §6§lFix§f§lMine §6§l▶'
-LOBBY_JOIN_SUBTITLE: '§fВАЙП ВАЙП ВАЙП ВАЙП ВАЙП'
+LOBBY_JOIN_TITLE: ' §b§lCloudMax  '
+LOBBY_JOIN_SUBTITLE: '§fДобро пожаловать!'
 
 PROFILE_ITEM_NAME: '§6§lПрофиль %s §7(ПКМ)'
 PROFILE_ITEM_LORE:
